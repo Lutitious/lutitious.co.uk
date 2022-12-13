@@ -1,0 +1,4 @@
+baseURL = 'https://lutitious.co.uk/'
+languageCode = 'en-gb'
+title = 'My New Hugo Site'
+theme = 'ananke'
